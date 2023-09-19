@@ -1,7 +1,7 @@
 ### Hi there, Bruno here! 👋
 
 - 🔭 I’m currently working on Mobile Apps & Mobile Apps Deploy/Update Automation Pipeline
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I’m currently learning Kubernetes, Rust, Solana Stack.
 - 👯 I’m looking to collaborate on great things.
 - 🤔 I’m looking for help with time management.
 - 💬 Ask me about Flutter/Dart, or maybe Plants!
